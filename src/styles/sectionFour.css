@@ -1,0 +1,89 @@
+/* section style */
+.SectionFour {
+    height: 980px;
+    background-color: #e9ebf0;
+    padding: 25px;
+    margin-top: 50px;
+}
+
+/* Heading style */
+.SecFourHeadingText {
+    text-align: center;
+    font-size: 48px;
+    color: #14395B;
+}
+
+.SecFourFormDiv {
+    padding: 25px;
+    text-align: center;
+}
+
+/* apartment link styles */
+.SecFourUnFocusedButton {
+    font-size: 25px;
+    margin: 40px;
+    color: #000000;
+    text-decoration: none;
+}
+
+/* apartment link styles */
+.SecFourFocusedButton {
+    color: #2289FF;
+}
+
+/* plan image style */
+.ApartmentPlanImg {
+    float:right;
+    width: 558;
+    height: 549;
+    margin: 70px;
+    margin-right: 170px;
+}
+
+/* style for the container div of plan image and plan description */
+.PlanDetails {
+    border: 1px solid #ebebeb;
+    box-shadow: 5px 5px #ebebeb;
+    width: 1692px;
+    height: 699px;
+    border-radius: 20px;
+    background-color: #FFFFFF;
+    margin: auto;
+}
+
+/* style for the plan description */
+.PlanDescription {
+    margin: 50px;
+    background-color: #186AA5;
+    color: #FFFFFF;
+    padding: 25px;
+    height: 550px;
+    width: 590px;
+    line-height: 30px;
+    border: 1px solid transparent;
+    border-top-left-radius: 15px;
+    border-bottom-left-radius: 15px;
+}
+
+dt {
+    font-size: 33px;
+    font-family: sans-serif;
+    font-weight: bold;
+    padding: 25px;
+
+}
+
+dd {
+    font-size: 14px;
+    font-family: sans-serif;
+}
+
+/* style for the div that displays the room area */
+.AreaValues {
+    font-size: 16px;
+    margin: 40px;
+}
+
+.SectionOneImgText {
+    margin-top: -800px
+}

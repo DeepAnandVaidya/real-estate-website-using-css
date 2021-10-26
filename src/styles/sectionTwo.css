@@ -1,0 +1,68 @@
+/* section style */
+.SectionTwo {
+    margin-top: -150px;
+}
+
+/* heading text style */
+.SecTwoHeadingText {
+    text-align: center;
+}
+
+/* sub heading text style */
+.SecTwoSubheadingText {
+    text-align: center;
+    font-size: 24px;
+    color: #8D9598;   
+    font-weight: 1px;
+}
+
+/* secondary heading style */
+.SecTwoHeading {
+    font-size: 48px;
+    color: #14395B;
+}
+
+.SecTwoSpan {
+    color: #105099;
+}
+
+.SecTwoLbl {
+    font-size: 24px;
+    color: #8D9598;
+}
+
+.SecTwoLbl {
+    display: flex;
+    text-align: center;
+}
+
+/* form fieldset style */
+.SecTwoFieldSet {
+    margin: auto;
+    border: none;
+}
+
+/* radio button image style */
+.RadioImg {
+    width: 385px;
+    height: 332px;
+    background-color: #FFFFFF;
+    border-radius: 20px;
+}
+
+/* continue button style */
+.ContinueButton {
+    width: 591px;
+    height: 96px;
+    margin-top: 5%;
+}
+
+
+/* add an orange tick on the selected apartment */
+input[type=radio]:checked + label > img {
+    background-image: url("/images/orangeTick.png");
+    background-repeat: no-repeat;
+    background-size: 45px;
+    background-position-x: 325px;
+    background-position-y: 270px;
+  }

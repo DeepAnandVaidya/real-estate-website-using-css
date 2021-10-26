@@ -1,0 +1,14 @@
+/* Common font style */
+.Fonts {
+    font-family: sans-serif;
+}
+
+/* Common heading font style */
+.HeadingFonts {
+    font-family:serif;
+}
+
+/* common style for input radio */
+input[type="radio"] {
+    display: none;
+}

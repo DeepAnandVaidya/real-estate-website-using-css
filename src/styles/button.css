@@ -1,0 +1,20 @@
+/* styles for the dark blue button */
+.DarkBlueButton {
+    font-size: 28px;
+    color: #FFFFFF;
+    border: 1px solid #186AA5;
+    background-color: #186AA5;
+    border-radius: 20px;
+    border-color: #186AA5;
+}
+
+/* styles for the light blue button */
+.LightBlueButton {
+    width: 179px;
+    height: 58px;
+    background-color: #2289FF;
+    border-radius: 10px;
+    border: 1px solid #2289FF;
+    color: #FFFFFF;
+    font-size: 20px;
+}

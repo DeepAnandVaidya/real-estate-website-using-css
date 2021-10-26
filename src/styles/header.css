@@ -1,0 +1,61 @@
+/* style for the html webpage */
+html {
+    background-color: #f5f5f5;
+    width: 100%;
+    zoom: 80%;
+}
+
+/* style for the links in the header */
+.HeaderControls {
+    position: relative;
+    right: -500px;
+    top: -90px;
+}
+
+/* style for the link that is focused */
+.unselectedLink {
+    font-size: 20px;
+    text-decoration: none;
+    padding: 25px;
+    height: 16px;
+    width: 52px;
+    color: #14395B;
+}
+
+/* style for the logo in the header */
+.Logo {
+    height: 78px;
+    width: 287px;
+    margin-left: 50px;
+    margin-top: 25px;
+}
+
+/* style for search bar*/
+.Search {
+    width: 189px;
+    height: 46px;
+    font-size: 20px;
+    border: 1px dashed #707070;
+    border-radius: 20px;
+    padding-left: 35px;
+    background-image: url('/images/searchIcon.png');
+    background-repeat: no-repeat;
+    background-position: 10px;
+    position: relative;
+    right: -320px;
+}
+
+/* styles the notification image */
+.NotificationImage {
+    width: 65px;
+    height: 62px;
+    position: relative;
+    right: -350px;
+    top: 25px;
+}
+
+/* style for the login button */
+.LoginButton {
+    position: relative;
+    right: -390px;
+}

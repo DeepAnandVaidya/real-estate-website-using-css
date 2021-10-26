@@ -1,0 +1,96 @@
+/* general footer style */
+footer {
+    background-color: #14395B;
+    height: 405px;
+}
+
+/* logo div style */
+.FooterLogoSection {
+    padding: 50px;
+    margin-left: 200px;
+}
+
+/* style for the text that is displayed below the logo */
+.FooterText {
+    font-size: 14px;
+    line-height: 30px;
+    color: #FFFFFF;
+    padding-top: 10px;
+    width: 247px;
+    height: 43px;
+    position: relative;
+    right: -60px;
+}
+
+/* style for the ALL achor links in the footer */
+.HelpfulLinks {
+    text-align: center;
+    margin-top: -220px;
+    color: #FFFFFF;
+    font-size: 18px;
+    position: relative;
+}
+
+/* style for the useful anchor links in the footer */
+.UsefulLinks {
+    width: 53px;
+    height: 94px;
+    position: relative;
+    right: -888px;
+    line-height: 50px;
+}
+
+/* style for the help anchor links DIV in the footer */
+.HelpLinksDiv {
+    position: relative;
+    right: -250px;
+    top: -161px;
+}
+
+/* style for the help anchor links in the footer */
+.HelpLinks {
+    text-align: left;
+    /* width: 115px; */
+    height: 167px;
+    position: relative;
+    right: -915px;
+    line-height: 50px;
+}
+
+/* style of individual anchor elements in the footer */
+.FooterAnchorLinks {
+    text-decoration: none;
+    color: #FFFFFF;
+    position: relative;
+    right: -9px;
+}
+
+/* styles for individual social media buttons */
+.EachSocialMedButton {
+    width: 44px;
+    height: 45px;
+    padding: 11px;
+}
+
+/* styles for the social media button div */
+.SocialMedButtons {
+    position: relative;
+    top: -150px;
+    right: -290px;
+}
+
+/* style for the copyright section */
+.CopyrightsDiv {
+    height: 74px;
+    background-color: #0B2F50;
+    margin-top: -150px;
+}
+
+/* style for the copyright section text */
+.CopyrightText {
+    color: #FFFFFF;
+    font-size: 14px;
+    position: relative;
+    top: 30px;
+    right: -310px;
+}

@@ -1,0 +1,75 @@
+/* Section style */
+.SectionFive {
+    padding: 25px;
+    height: 850px;
+}
+
+/* heading text style */
+.SecFiveHeadingText {
+    font-size: 60px;
+    color: #14395B;
+}
+
+.SecFiveSpan {
+    color: #2289FF;
+}
+
+/* seeAllApartment button style */
+.SeeAllApartmentButton {
+    width: 382px;
+    height:108px;
+}
+
+/* Div element style that included the heading text and seeAllApartment button */
+.TextAndButton {
+    position: relative;
+    bottom: -100px;
+    line-height: 110px;
+    margin-left: 70px;
+}
+
+/* Style for the background image */
+.BackgroundImage {
+    width: 296px;
+    height: 296px;
+    position:absolute;
+    top: 4060px;
+    left: 689px;    
+    z-index: 1;
+    margin-top: 10px;
+}
+
+/* style of the main image */
+.ImageOne {
+    width: 1062px;
+    height: 791px;
+    border: 1px solid transparent;
+    padding: 15px;
+    background-color: #FFFFFF;
+    border-radius: 50px;
+    top: 4110px;
+    right:68px;
+    position:absolute;
+    z-index: 2;
+}
+
+/* style of the video file */
+.VideoFile {
+    width: 534px;
+    height: 356px;
+    border-radius: 50px;
+    position:absolute;
+    top: 4549px;
+    right: 750px;
+    z-index: 3;
+}
+
+/* style of the play button */
+.PlayButton {
+    width: 115px;
+    height: 115px;
+    position: absolute;
+    right:960px;
+    top:4680px;
+    z-index: 4;
+}
